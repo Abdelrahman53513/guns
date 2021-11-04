@@ -1,0 +1,19 @@
+
+.navbar{
+     border-bottom: 5px solid #E2FDFF;
+   
+}
+header{
+    height:100vh ;
+    background-image: linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)) , url(../imgaes/45.jpg);
+    background-position: center;
+    background-size: cover;
+    
+}
+  ul{
+     list-style: none;
+     padding: 0px;
+ }
+  ul li{
+     display: inline-block;
+ }
